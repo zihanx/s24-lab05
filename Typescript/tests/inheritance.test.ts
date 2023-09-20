@@ -2,8 +2,8 @@ import { InheritanceSortedIntList } from '../src/InheritanceSortedIntList'
 import { IntegerList } from '../src/IntegerList'
 import { printList } from '../src/main'
 
-/** 
- * Uncomment the following code to test your implementation 
+/**
+ * Uncomment the following code to test your implementation
  * Select all and (CTRL + /) or (COMMAND + /)
  * Feel free to write more tests for your implementation. */
 

@@ -2,8 +2,8 @@ import { DelegationSortedIntList } from '../src/DelegationSortedIntList.js'
 import { IntegerList } from '../src/IntegerList.js'
 import { printList } from '../src/main.js'
 
-/** 
- * Uncomment the following code to test your implementation 
+/**
+ * Uncomment the following code to test your implementation
  * Select all and (CTRL + /) or (COMMAND + /)
  * Feel free to write more tests for your implementation. */
 

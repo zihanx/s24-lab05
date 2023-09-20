@@ -9,11 +9,11 @@ import { DelegationSortedIntList } from './DelegationSortedIntList.js'
 import { InheritanceSortedIntList } from './InheritanceSortedIntList.js'
 import { IntegerList } from './IntegerList.js'
 
-/** 
+/**
  * This is a sandbox to experiment in.
- * Uncomment the following code to play with your implementation 
+ * Uncomment the following code to play with your implementation
  * Select all and (CTRL + /) or (COMMAND + /)
- * Feel free to write more to test your implementation. 
+ * Feel free to write more to test your implementation.
  * */
 
 // const list1: DelegationSortedIntList = new DelegationSortedIntList()
@@ -44,12 +44,12 @@ import { IntegerList } from './IntegerList.js'
   * @param list IntegerList to be printed out.
   */
 function printList (list: IntegerList): void {
-  console.log();
+  console.log()
   for (let i = 0; i < list.size(); i++) {
-    process.stdout.write(list.get(i).toString());
-    process.stdout.write(', ');
+    process.stdout.write(list.get(i).toString())
+    process.stdout.write(', ')
   }
-  console.log();
+  console.log()
 }
 
-export { printList };
+export { printList }

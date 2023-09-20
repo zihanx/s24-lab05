@@ -1,5 +1,4 @@
-import { SortedIntList } from "./hidden/SortedIntListLibrary.js";
-
+import { SortedIntList } from './hidden/SortedIntListLibrary.js'
 
 /**
  * InheritanceSortedIntList -- a variant of a SortedIntList that keeps
@@ -12,8 +11,8 @@ import { SortedIntList } from "./hidden/SortedIntListLibrary.js";
  */
 
 class InheritanceSortedIntList {
-    // Write your implementation below with API documentation
+  // Write your implementation below with API documentation
 
 }
 
-export {InheritanceSortedIntList}
+export { InheritanceSortedIntList }

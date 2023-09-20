@@ -8,9 +8,8 @@
  *
  */
 
-
 class DelegationSortedIntList {
-    // Write your implementation below with API documentatioin
+  // Write your implementation below with API documentatioin
 }
 
 export { DelegationSortedIntList }
