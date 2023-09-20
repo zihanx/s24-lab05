@@ -8,9 +8,9 @@
  *
  */
 
-// HINT: Take a look at the UML diagram to see what DelegationSortedIntList
-//       should implement.
+
 class DelegationSortedIntList {
+    // Write your implementation below with API documentatioin
 }
 
 export { DelegationSortedIntList }

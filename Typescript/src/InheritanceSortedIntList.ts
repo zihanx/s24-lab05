@@ -10,7 +10,9 @@ import { SortedIntList } from "./hidden/SortedIntListLibrary";
  * @author Nora Shoemaker
  *
  */
+
 class InheritanceSortedIntList {
+    // Write your implementation below with API documentatioin
 }
 
 export {InheritanceSortedIntList}
