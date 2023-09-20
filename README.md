@@ -6,9 +6,9 @@ This repository is set up for discussion on relative strengths and weaknesses of
 Lab05 Handout can be found at: [https://github.com/CMU-17-214/f2023/blob/main/labs/lab05.md](https://github.com/CMU-17-214/f2023/blob/main/labs/lab05.md)
 
 
-# Testing Infrastructure in Jest and TypeScript
+# Guide on Testing Infrastructure in Jest and TypeScript
 
-This repository is set up for testing with _Jest_ (_ts-jest_ to be precise), automated through _npm_.
+Guide for testing with _Jest_ (_ts-jest_ to be precise), automated through _npm_.
 
 Note how _Jest_ is set up in `package.json`: It adds development dependencies for `jest`, `ts-jest` and `@types/jest` (all three needed for _Jest_ in _TypeScript_). It also adds a `test` script to tell npm what to execute with `npm test`.
 
