@@ -5,9 +5,9 @@
  *
  */
 
-import { DelegationSortedIntList } from './DelegationSortedIntList'
-import { InheritanceSortedIntList } from './InheritanceSortedIntList'
-import { IntegerList } from './IntegerList'
+import { DelegationSortedIntList } from './DelegationSortedIntList.js'
+import { InheritanceSortedIntList } from './InheritanceSortedIntList.js'
+import { IntegerList } from './IntegerList.js'
 
 /** 
  * This is a sandbox to experiment in.

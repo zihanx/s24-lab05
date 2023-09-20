@@ -5,7 +5,7 @@
  * Assume it comes hidden as a library
  */
 
-import { IntegerList } from "../IntegerList";
+import { IntegerList } from "../IntegerList.js";
 
 
 

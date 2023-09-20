@@ -1,4 +1,4 @@
-import { IntegerList } from "./IntegerList";
+import { IntegerList } from "./IntegerList.js";
 
 /**
  * AbstractIntList -- a list of integers.

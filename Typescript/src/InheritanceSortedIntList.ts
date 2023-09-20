@@ -1,4 +1,4 @@
-import { SortedIntList } from "./hidden/SortedIntListLibrary";
+import { SortedIntList } from "./hidden/SortedIntListLibrary.js";
 
 
 /**
