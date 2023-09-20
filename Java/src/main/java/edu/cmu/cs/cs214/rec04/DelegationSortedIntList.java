@@ -10,8 +10,6 @@ package edu.cmu.cs.cs214.rec04;
  *
  */
 
-// HINT: Take a look at the UML diagram to see what DelegationSortedIntList
-//       should implement.
 public class DelegationSortedIntList {
 
 }
