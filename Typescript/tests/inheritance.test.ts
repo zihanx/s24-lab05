@@ -1,6 +1,6 @@
-import { InheritanceSortedIntList } from '../src/InheritanceSortedIntList'
-import { IntegerList } from '../src/IntegerList'
-import { printList } from '../src/main'
+import { InheritanceSortedIntList } from '../src/InheritanceSortedIntList.js'
+import { IntegerList } from '../src/IntegerList.js'
+import { printList } from '../src/main.js'
 
 /**
  * Uncomment the following code to test your implementation
