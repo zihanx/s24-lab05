@@ -11,5 +11,6 @@ package edu.cmu.cs.cs214.rec04;
  */
 
 public class InheritanceSortedIntList {
-    //  Write your implementation below with API documentatioin
+    // Write your implementation below with API documentation
+
 }

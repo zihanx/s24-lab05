@@ -12,7 +12,8 @@ import { SortedIntList } from "./hidden/SortedIntListLibrary";
  */
 
 class InheritanceSortedIntList {
-    // Write your implementation below with API documentatioin
+    // Write your implementation below with API documentation
+
 }
 
 export {InheritanceSortedIntList}
