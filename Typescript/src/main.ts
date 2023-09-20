@@ -39,17 +39,17 @@ import { IntegerList } from './IntegerList'
 // printList(list2)
 // console.log(list2.getTotalAdded())
 
-// /**
-//   * A helper function that prints out the contents of an IntegerList.
-//   * @param list IntegerList to be printed out.
-//   */
-// function printList (list: IntegerList) {
-//   console.log()
-//   for (let i = 0; i < list.size(); i++) {
-//     process.stdout.write(list.get(i).toString())
-//     process.stdout.write(', ')
-//   }
-//   console.log()
-// }
+/**
+  * A helper function that prints out the contents of an IntegerList.
+  * @param list IntegerList to be printed out.
+  */
+function printList (list: IntegerList): void {
+  console.log();
+  for (let i = 0; i < list.size(); i++) {
+    process.stdout.write(list.get(i).toString());
+    process.stdout.write(', ');
+  }
+  console.log();
+}
 
-// export { printList };
+export { printList };
