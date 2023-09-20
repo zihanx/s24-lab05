@@ -18,14 +18,12 @@ test('test add()', () => {
 
   // check that the total number of elements added is 5.
   expect(list1.getTotalAdded()).toBe(5)
-
   // printList(list1);
 })
 
-//   /**
-//   * Test for the addAll() method.
-//   */
-//   @Test
+  /**
+  * Test for the addAll() method.
+  */
 test('test addAll()', () => {
   const list1 = new DelegationSortedIntList()
   const list2 = new DelegationSortedIntList()
@@ -39,7 +37,6 @@ test('test addAll()', () => {
 
   // check that the total number of elements added is 5.
   expect(list1.getTotalAdded()).toBe(5)
-
   // printList(list1);
 
   // add 2 elements to a second list.
@@ -54,6 +51,5 @@ test('test addAll()', () => {
 
   // check that the total number of elements added to our second list is 7.
   expect(list2.getTotalAdded()).toBe(7)
-
   // printList(list2);
 })
