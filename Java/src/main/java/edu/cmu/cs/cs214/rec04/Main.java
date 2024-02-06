@@ -16,10 +16,10 @@ public class Main {
          * Feel free to write more to test your implementation. 
          * */
 
-        // InheritanceSortedIntList list1;
-        // InheritanceSortedIntList list2;
+        // IntegerList list1;
+        // SortedIntList list2;
 
-        // list1 = new InheritanceSortedIntList();
+        // list1 = new DelegationSortedIntList();
         // list2 = new InheritanceSortedIntList();
 
         // // add 5 elements to our first list.
